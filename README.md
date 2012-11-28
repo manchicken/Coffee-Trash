@@ -1,3 +1,7 @@
+Version
+=======
+Version 0.2
+
 Requirements
 ============
  * better-require
